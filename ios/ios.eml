@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../../ios/out/test/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../ios">
+		<testFolder url="file://$MODULE_DIR$/../../../ios/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../ios/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../ios/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../ios/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../ios/out"/>
+	</contentEntry>
+	<levels>
+		<level name="Gradle: com.mobidevelop.robovm:robovm-rt:2.3.1" value="project"/>
+		<level name="Gradle: com.mobidevelop.robovm:robovm-cocoatouch:2.3.1" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-backend-robovm:1.9.6" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-platform:1.9.6:natives-ios" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-box2d-platform:1.9.6:natives-ios" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx:1.9.6" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.9.6" value="project"/>
+		<level name="Gradle: com.mobidevelop.robovm:robovm-objc:2.3.1" value="project"/>
+	</levels>
+</component>

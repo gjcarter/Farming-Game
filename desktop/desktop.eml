@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../../desktop/out/test/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../desktop">
+		<testFolder url="file://$MODULE_DIR$/../../../desktop/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../../desktop/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../desktop/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../desktop/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../desktop/out"/>
+	</contentEntry>
+	<levels>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-backend-lwjgl:1.9.6" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-platform:1.9.6:natives-desktop" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-box2d-platform:1.9.6:natives-desktop" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx:1.9.6" value="project"/>
+		<level name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.9.6" value="project"/>
+		<level name="Gradle: org.lwjgl.lwjgl:lwjgl:2.9.2" value="project"/>
+		<level name="Gradle: org.lwjgl.lwjgl:lwjgl_util:2.9.2" value="project"/>
+		<level name="Gradle: com.badlogicgames.jlayer:jlayer:1.0.1-gdx" value="project"/>
+		<level name="Gradle: org.jcraft:jorbis:0.0.17" value="project"/>
+		<level name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-windows" value="project"/>
+		<level name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-linux" value="project"/>
+		<level name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-osx" value="project"/>
+		<level name="Gradle: net.java.jinput:jinput:2.0.5" value="project"/>
+		<level name="Gradle: net.java.jutils:jutils:1.0.0" value="project"/>
+		<level name="Gradle: net.java.jinput:jinput-platform:2.0.5:natives-linux" value="project"/>
+		<level name="Gradle: net.java.jinput:jinput-platform:2.0.5:natives-windows" value="project"/>
+		<level name="Gradle: net.java.jinput:jinput-platform:2.0.5:natives-osx" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: com.badlogicgames.gdx:gdx:1.9.6">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx:1.9.6:sources">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/7d903ecd6b0df2ec334814b8e70618e4c93fd37c/gdx-1.9.6-sources.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-backend-gwt:1.9.6">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.9.6/1259340b809a450de45f9552954df7968cb11cb7/gdx-backend-gwt-1.9.6.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-backend-gwt:1.9.6:sources">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.9.6/c963983c4175846bff6b0e6d0ff50f68b840b002/gdx-backend-gwt-1.9.6-sources.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-backend-lwjgl:1.9.6">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl/1.9.6/ee7c23636ee4a942d329579daecc3ec5e517fe4c/gdx-backend-lwjgl-1.9.6.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-backend-robovm:1.9.6">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.9.6/d975efe24a3947e8dc36645b9cebb1fa4a588c42/gdx-backend-robovm-1.9.6.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.9.6">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.9.6:sources">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/584f96799f8fedc8e6bb87eef1e261f0e7f92900/gdx-box2d-1.9.6-sources.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-box2d-gwt:1.9.6:sources">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-gwt/1.9.6/e2b890356f9151a583cc84f1dcb1e4caec4c498/gdx-box2d-gwt-1.9.6-sources.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-box2d-platform:1.9.6:natives-desktop">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.9.6/d7b6168f5afd3948fd126c0b248f66c49b73ca35/gdx-box2d-platform-1.9.6-natives-desktop.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-box2d-platform:1.9.6:natives-ios">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.9.6/73511c4d7d4465b410e635cb66751ff05ff07ffb/gdx-box2d-platform-1.9.6-natives-ios.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-platform:1.9.6:natives-desktop">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.9.6/6f84dd7a18dc68e4ec492dfbb0594f930babcf63/gdx-platform-1.9.6-natives-desktop.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.gdx:gdx-platform:1.9.6:natives-ios">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.9.6/e82237140baaf44408b1bbc79c357a71f46bea92/gdx-platform-1.9.6-natives-ios.jar" />
+  </library>
+  <library name="Gradle: com.badlogicgames.jlayer:jlayer:1.0.1-gdx">
+    <archive path="C:/Users/Joe/.m2/repository/com/badlogicgames/jlayer/jlayer/1.0.1-gdx/jlayer-1.0.1-gdx.jar" />
+  </library>
+  <library name="Gradle: com.google.gwt:gwt-servlet:2.8.0">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-servlet/2.8.0/8fba7d39f9a341892cda502aacb2f5287bd49309/gwt-servlet-2.8.0.jar" />
+  </library>
+  <library name="Gradle: com.google.gwt:gwt-user:2.8.0">
+    <archive path="C:/Users/Joe/.m2/repository/com/google/gwt/gwt-user/2.8.0/gwt-user-2.8.0.jar" />
+  </library>
+  <library name="Gradle: com.google.jsinterop:jsinterop-annotations:1.0.1">
+    <archive path="C:/Users/Joe/.m2/repository/com/google/jsinterop/jsinterop-annotations/1.0.1/jsinterop-annotations-1.0.1.jar" />
+  </library>
+  <library name="Gradle: com.google.jsinterop:jsinterop-annotations:1.0.1:sources">
+    <archive path="C:/Users/Joe/.m2/repository/com/google/jsinterop/jsinterop-annotations/1.0.1/jsinterop-annotations-1.0.1-sources.jar" />
+  </library>
+  <library name="Gradle: com.mobidevelop.robovm:robovm-cocoatouch:2.3.1">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-cocoatouch/2.3.1/d62114db9e733cacbb3de182b83bd854537a3086/robovm-cocoatouch-2.3.1.jar" />
+  </library>
+  <library name="Gradle: com.mobidevelop.robovm:robovm-objc:2.3.1">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-objc/2.3.1/70be1d1592486b8ff1a4c12c00d22c9907238376/robovm-objc-2.3.1.jar" />
+  </library>
+  <library name="Gradle: com.mobidevelop.robovm:robovm-rt:2.3.1">
+    <archive path="C:/Users/Joe/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-rt/2.3.1/7594592b3c15160d2565845fae057938babc8a9/robovm-rt-2.3.1.jar" />
+  </library>
+  <library name="Gradle: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/Users/Joe/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Gradle: javax.validation:validation-api:1.0.0.GA">
+    <archive path="C:/Users/Joe/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar" />
+  </library>
+  <library name="Gradle: javax.validation:validation-api:1.0.0.GA:sources">
+    <archive path="C:/Users/Joe/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar" />
+  </library>
+  <library name="Gradle: net.java.jinput:jinput:2.0.5">
+    <archive path="C:/Users/Joe/.m2/repository/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar" />
+  </library>
+  <library name="Gradle: net.java.jinput:jinput-platform:2.0.5:natives-linux">
+    <archive path="C:/Users/Joe/.m2/repository/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar" />
+  </library>
+  <library name="Gradle: net.java.jinput:jinput-platform:2.0.5:natives-osx">
+    <archive path="C:/Users/Joe/.m2/repository/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar" />
+  </library>
+  <library name="Gradle: net.java.jinput:jinput-platform:2.0.5:natives-windows">
+    <archive path="C:/Users/Joe/.m2/repository/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar" />
+  </library>
+  <library name="Gradle: net.java.jutils:jutils:1.0.0">
+    <archive path="C:/Users/Joe/.m2/repository/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar" />
+  </library>
+  <library name="Gradle: org.jcraft:jorbis:0.0.17">
+    <archive path="C:/Users/Joe/.m2/repository/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl:2.9.2">
+    <archive path="C:/Users/Joe/.m2/repository/org/lwjgl/lwjgl/lwjgl/2.9.2/lwjgl-2.9.2.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-linux">
+    <archive path="C:/Users/Joe/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.9.2/lwjgl-platform-2.9.2-natives-linux.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-osx">
+    <archive path="C:/Users/Joe/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.9.2/lwjgl-platform-2.9.2-natives-osx.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl-platform:2.9.2:natives-windows">
+    <archive path="C:/Users/Joe/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.9.2/lwjgl-platform-2.9.2-natives-windows.jar" />
+  </library>
+  <library name="Gradle: org.lwjgl.lwjgl:lwjgl_util:2.9.2">
+    <archive path="C:/Users/Joe/.m2/repository/org/lwjgl/lwjgl/lwjgl_util/2.9.2/lwjgl_util-2.9.2.jar" />
+  </library>
+  <library name="Gradle: org.w3c.css:sac:1.3">
+    <archive path="C:/Users/Joe/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
